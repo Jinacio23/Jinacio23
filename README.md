@@ -1,8 +1,8 @@
 # Desenvolvedor Front-end
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jinacio23&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinacio23&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jinacio23&show_icons=true&theme=highcontrast">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinacio23&layout=compact&theme=highcontrast">
 </div>
 
 <div style="display: inline-block">
@@ -17,4 +17,4 @@
 * Contribuir e aprender com projetos
 * Manter sempre um bom network e trabalho em equipe
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-inácio-277a62264)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-in%C3%A1cio-277a62264/)
