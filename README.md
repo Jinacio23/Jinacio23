@@ -1,4 +1,4 @@
-## Desenvolvedor Front-end
+# Desenvolvedor Front-end
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jinacio23&show_icons=true&theme=radical">
@@ -17,7 +17,6 @@
 * Contribuir e aprender com projetos
 * Manter sempre um bom network e trabalho em equipe
 
-#
 <div style="display: inline-block">
-<!--   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-inácio-277a62264) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-inácio-277a62264)
 </div>
