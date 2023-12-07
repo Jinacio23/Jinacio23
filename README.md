@@ -19,5 +19,5 @@
 
 #
 <div style="display: inline-block">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-inácio-277a62264)
+<!--   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-inácio-277a62264) -->
 </div>
