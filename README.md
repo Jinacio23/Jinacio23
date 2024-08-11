@@ -15,7 +15,7 @@
 
 ## Objetivo
 
-* Desenvolvedor Javascript, ou similar
+* Desenvolvedor Javascript, ou similares
 * Contribuir e aprender com projetos
 * Manter sempre um bom network e trabalho em equipe
 
