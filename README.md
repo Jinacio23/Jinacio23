@@ -16,7 +16,7 @@
 
 ## Objetivo
 
-* Desenvolvedor Javascript, ou similares
+* Desenvolvedor Fullstack
 * Contribuir e aprender com projetos
 * Manter sempre um bom network e trabalho em equipe
 
