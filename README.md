@@ -17,7 +17,7 @@
 
 ## Objetivo
 
-* Desenvolvedor Front-End
+* Desenvolvedor Full-Stack
 * Contribuir e aprender com projetos
 * Manter sempre um bom network e trabalho em equipe
 
